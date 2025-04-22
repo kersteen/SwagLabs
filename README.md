@@ -6,7 +6,7 @@ In this project, I developed and executed automation scripts for testing the Swa
 
 Login Functionality: Verified user authentication for valid credentials.
 
-Add Products to Cart : Automated the process of adding random products to the cart, validating the number of selected items.
+Add Products to Cart : Automated the process of adding  products to the cart, validating the number of selected items.
 
 Cart Management : Tested cart functionality, and ensuring the prices.
 
