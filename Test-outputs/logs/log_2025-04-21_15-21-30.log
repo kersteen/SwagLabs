@@ -1,0 +1,8 @@
+[INFO] 21-04-2025 15:21:31 [main] [pages.P02_landingpage.addrandomproducts(P02_landingpage.java:70)] - randomnumber2
+[INFO] 21-04-2025 15:21:33 [main] [pages.P02_landingpage.addrandomproducts(P02_landingpage.java:70)] - randomnumber3
+[ERROR] 21-04-2025 15:21:46 [main] [pages.P03_CartIconPage.ClickOnCheckOutButton(P03_CartIconPage.java:48)] - Expected condition failed: waiting for element to be clickable: By.id: checkout (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 135.0.3179.85, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:59401}, msedge: {msedgedriverVersion: 135.0.3179.85 (578105711aca..., userDataDir: C:\Users\MOTHER~1\AppData\L...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59401/devtoo..., se:cdpVersion: 135.0.3179.85, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fd5a5b0fc134699ba1e86f07eb3b3239

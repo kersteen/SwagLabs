@@ -1,0 +1,1 @@
+{"uuid":"78ad2b46-c058-449e-93b8-79327703549b","name":"Tests.TC06_FinishingTC.setup","children":["7733c77f-07eb-4226-95bb-b8a3c1279342"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745325743419,"stop":1745325763962}],"afters":[],"start":1745325743415,"stop":1745325763973}

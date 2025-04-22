@@ -1,0 +1,1 @@
+{"uuid":"0cba1408-0ab3-4977-919a-2e394f943181","name":"Tests.TC04_CheckOutTest.setup","children":["a2973676-cb5d-4c61-b89e-362904468714"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1745262275493,"stop":1745262293421}],"afters":[],"start":1745262275490,"stop":1745262293423}

@@ -1,0 +1,14 @@
+[INFO] 26-12-2024 19:00:54 [main] [pages.P02_landingpage.addrandomproducts(P02_landingpage.java:70)] - randomnumber1
+[INFO] 26-12-2024 19:00:55 [main] [pages.P02_landingpage.addrandomproducts(P02_landingpage.java:70)] - randomnumber6
+[ERROR] 26-12-2024 19:01:05 [main] [pages.P02_landingpage.gettotalpricesselected(P02_landingpage.java:98)] - Expected condition failed: waiting for visibility of element located by By.xpath: //button[.='REMOVE']//preceding-sibling::div[@class='inventory_item_price'][2] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.112, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52877}, msedge: {msedgedriverVersion: 131.0.2903.112 (16ab910a6e7..., userDataDir: C:\Users\MLA~1\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52877/devtoo..., se:cdpVersion: 131.0.2903.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16b4180ff0d67d7a98605f1b62ca7895
+[ERROR] 26-12-2024 19:01:17 [main] [pages.P03_CartIconPage.gettotalprices(P03_CartIconPage.java:32)] - Expected condition failed: waiting for visibility of element located by By.xpath: //button[.='REMOVE']//preceding-sibling::div[@class='inventory_item_price'][2] (tried for 5 second(s) with 500 milliseconds interval)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.112, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:52877}, msedge: {msedgedriverVersion: 131.0.2903.112 (16ab910a6e7..., userDataDir: C:\Users\MLA~1\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52877/devtoo..., se:cdpVersion: 131.0.2903.112, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 16b4180ff0d67d7a98605f1b62ca7895
